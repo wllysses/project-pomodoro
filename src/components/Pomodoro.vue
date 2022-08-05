@@ -95,9 +95,9 @@ export default {
 }
 .container {
     margin: 50px auto 0;
-    max-width: 500px;
+    max-width: 400px;
     width: 100%;
-    height: 500px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -119,7 +119,7 @@ export default {
 }
 
 .container .buttons button {
-    width: 150px;
+    width: 100px;
     padding: 10px;
     margin: 10px;
     color: white;
@@ -157,7 +157,7 @@ export default {
 
 .results button {
     margin-top: 10px;
-    width: 150px;
+    width: 100px;
     padding: 10px;
     color: white;
     font-weight: 700;
