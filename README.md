@@ -1,24 +1,3 @@
-# project-pomodoro
+# Seja bem-vindo!
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Projeto criado utilizando o framework Javascript VueJS e conhecimentos em HTML, CSS, Javascript e também a ferramenta de versionamento de código Git. 
